@@ -9,8 +9,7 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
   <LI>Markov Chains</LI>
   <LI>Markov Chains</LI>
   <LI>Ergodic Theorem</LI>
-  <LI>Ising Model</LI>
-  ![IsingModel2D](https://github.com/NikosNikolopoulos/StochasticProcesses/blob/main/Images/ising.gif)
+  <LI>Ising Model ![IsingModel2D](https://github.com/NikosNikolopoulos/StochasticProcesses/blob/main/Images/ising.gif)</LI>
   <LI>Travelling Salesman Problem</LI>
 </OL>
 
