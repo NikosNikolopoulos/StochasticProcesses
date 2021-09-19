@@ -6,7 +6,7 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
   <LI><a href="Notebooks/MarkovChainMonteCarloSampling.ipynb">Markov Chain Monte Carlo (MCMC) Sampling</a></LI>
   <LI><a href="Notebooks/MonteCarloApproximations.ipynb">Monte Carlo Approximations</a></LI>
   <LI><a href="Notebooks/ErgodicTheorem.ipynb">Ergodic Theorem</a></LI>
-  <LI><a href="Notebooks/IsingModel.ipynb">Ising Model</a> <center><img src="Images/ising.gif" width="100" height="100"/></center> </LI>
+  <LI><a href="Notebooks/IsingModel.ipynb">Ising Model</a> <p style="text-align:center;"><img src="Images/ising.gif" width="100" height="100"/></p> </LI>
   <LI>Travelling Salesman Problem</LI>
 </OL>
 
