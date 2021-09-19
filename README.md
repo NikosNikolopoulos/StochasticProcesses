@@ -24,7 +24,7 @@ Approximating the value of 𝛑 using <B>Monte Carlo Estimates</B>. <div><img sr
 <B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>. <div><img src="Images/Ising2D.gif" width="200" height="200" align="middle"></div>
 
 ### Travelling Salesman Problem
-Solving the <B>[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)</B> usng the <B>[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)</B><div><img src="Images/TSPEurope.gif" width="250" height="250" align="middle"></div>
+Solving the <B>[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)</B> usng the <B>[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)</B>.<div><img src="Images/TSPEurope.gif" width="250" height="250" align="middle"></div>
 
 ## References
 [1] https://repository.kallipos.gr/handle/11419/6003
