@@ -16,7 +16,7 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
 <img src="Images/MarkovChainTennis.jpg" width="300" height="300"/>
 
 ### Ising Model 
-<img src="Images/ising.gif" width="250" height="250"/>
+<img src="Images/ising.gif" width="150" height="150"/>
 
 ## References
 [1] https://repository.kallipos.gr/handle/11419/6003
