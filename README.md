@@ -10,10 +10,11 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
   <LI><a href="Notebooks/IsingModel.ipynb">Ising Model</a></LI>
   <LI><a href="Notebooks/TravellingSalesmanProblem.ipynb">Travelling Salesman Problem</a></LI>
 </OL>
+
 ## Highlights
 ### Markov Chains
-<img src="Images/MarkovChainTennis.jpg" width="500" height="500"/>
+<img src="Images/MarkovChainTennis.jpg" width="250" height="250"/>
 ### Ising Model 
-<img src="Images/ising.gif" width="500" height="500"/>
+<img src="Images/ising.gif" width="250" height="250"/>
 ## References
 [1] https://repository.kallipos.gr/handle/11419/6003
