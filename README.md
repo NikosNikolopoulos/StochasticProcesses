@@ -12,19 +12,19 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
   <LI><a href="Notebooks/TravellingSalesmanProblem.ipynb">Travelling Salesman Problem</a></LI>
 </OL>
 
-## Highlights
+[x] ## Highlights
 
-### Markov Chains
-Modelling a <B>tennis match</B> using <B>Markov Chains</B>.<div style="float:right"><img src="Images/MarkovChainTennis.jpg" width="300" height="300" align="middle"></div>
+[x] ### Markov Chains
+Modelling a <B>tennis match</B> using <B>Markov Chains</B>.<div><img src="Images/MarkovChainTennis.jpg" width="300" height="300"></div>
 
-### Monte Carlo Approximations
-<P>Approximating the value of 𝛑 using <B>Monte Carlo Estimates</B>. <img src="Images/MCMCApproximatingPi.gif" width="200" height="200" align="middle" style="float:right"> </P>
+[x] ### Monte Carlo Approximations
+Approximating the value of 𝛑 using <B>Monte Carlo Estimates</B>. <div><img src="Images/MCMCApproximatingPi.gif" width="200" height="200" align="middle"></div>
 
-### Ising Model 
-<B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>. <img src="Images/Ising2D.gif" width="200" height="200" align="middle">
+[x] ### Ising Model 
+<B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>. <div><img src="Images/Ising2D.gif" width="200" height="200" align="middle"></div>
 
-### Travelling Salesman Problem
-Solving the <B>[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)</B> usng the <B>[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)</B><RIGHT><img src="Images/TSPEurope.gif" width="200" height="200" align="middle">
+[x] ### Travelling Salesman Problem
+Solving the <B>[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)</B> usng the <B>[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)</B><div><img src="Images/TSPEurope.gif" width="200" height="200" align="middle"></div>
 
 ## References
 [1] https://repository.kallipos.gr/handle/11419/6003
