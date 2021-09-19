@@ -1,5 +1,5 @@
 # StochasticProcesses
-Some interesting applications of Stochastic Processes using Jupyter Notebooks for descriptive and instructive illustrations can be breifly summarized in the following list:
+Some interesting applications of Stochastic Processes using Jupyter Notebooks for descriptive and instructive illustrations are included in this repository and can be summarized in the following list:
 
 ## Contents
 <OL>
