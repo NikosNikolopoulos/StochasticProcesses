@@ -15,17 +15,17 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
 ## Highlights
 
 ### Markov Chains
-Modelling a *tennis match* using *Markov Chains*.
+Modelling a <B>tennis match</B> using <B>Markov Chains</B>.
 <img src="Images/MarkovChainTennis.jpg" width="300" height="300"/>
 
 ### Monte Carlo Approximations
-Approximating the value of *$\pi$* using *Monte Carlo Estimates*. <img src="Images/MCMCApproximatingPi.gif" width="200" height="200"/>
+Approximating the value of $\pi4 using <B>Monte Carlo Estimates</B>. <RIGHT><img src="Images/MCMCApproximatingPi.gif" width="200" height="200"/></RIGHT>
 
 ### Ising Model 
-*Monte Carlo simulation* of the *two dimensional Ising Model*.<img src="Images/Ising2D.gif" width="200" height="200"/>
+<B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>.<RIGHT><img src="Images/Ising2D.gif" width="200" height="200"/></RIGHT>
 
 ### Travelling Salesman Problem
-Solving the *[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)* usng the *[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)*<img src="Images/TSPEurope.gif" width="200" height="200"/>
+Solving the *[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)* usng the <B>[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)</B><RIGHT><img src="Images/TSPEurope.gif" width="200" height="200"/></RIGHT>
 
 ## References
 [1] https://repository.kallipos.gr/handle/11419/6003
