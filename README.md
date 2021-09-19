@@ -15,11 +15,11 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
 ## Highlights
 
 ### Markov Chains
-Modelling a <B>tennis match</B> using <B>Markov Chains</B>.
-<img src="Images/MarkovChainTennis.jpg" width="300" height="300" align="right">
+<P>Modelling a <B>tennis match</B> using <B>Markov Chains</B>.
+<img src="Images/MarkovChainTennis.jpg" width="300" height="300" align="right"></P>
 
 ### Monte Carlo Approximations
-Approximating the value of 𝛑 using <B>Monte Carlo Estimates</B>. <img src="Images/MCMCApproximatingPi.gif" width="200" height="200" align="right"> 
+<P>Approximating the value of 𝛑 using <B>Monte Carlo Estimates</B>. <img src="Images/MCMCApproximatingPi.gif" width="200" height="200" align="right"> </P>
 
 ### Ising Model 
 <B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>. <img src="Images/Ising2D.gif" width="200" height="200" align="right">
