@@ -12,18 +12,18 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
   <LI><a href="Notebooks/TravellingSalesmanProblem.ipynb">Travelling Salesman Problem</a></LI>
 </OL>
 
-[x] ## Highlights
+## Highlights
 
-[x] ### Markov Chains
+### Markov Chains
 Modelling a <B>tennis match</B> using <B>Markov Chains</B>.<div><img src="Images/MarkovChainTennis.jpg" width="300" height="300"></div>
 
-[x] ### Monte Carlo Approximations
+### Monte Carlo Approximations
 Approximating the value of 𝛑 using <B>Monte Carlo Estimates</B>. <div><img src="Images/MCMCApproximatingPi.gif" width="200" height="200" align="middle"></div>
 
-[x] ### Ising Model 
-<B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>. <div><img src="Images/Ising2D.gif" width="200" height="200" align="middle"></div>
+### Ising Model 
+<B>Monte Carlo simulation</B> of the <B>two dimensional Ising Model</B>. <div><img src="Images/Ising2D.gif" width="250" height="250" align="middle"></div>
 
-[x] ### Travelling Salesman Problem
+### Travelling Salesman Problem
 Solving the <B>[Travelling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)</B> usng the <B>[Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)</B><div><img src="Images/TSPEurope.gif" width="200" height="200" align="middle"></div>
 
 ## References
