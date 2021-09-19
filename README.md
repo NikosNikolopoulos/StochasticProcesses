@@ -15,6 +15,9 @@ Some interesting applications of Stochastic Processes using Jupyter Notebooks fo
 ### Markov Chains
 <img src="Images/MarkovChainTennis.jpg" width="300" height="300"/>
 
+### Monte Carlo Approximations
+<img src="Images/MCMCApproximatingPi.jpg" width="300" height="300"/>
+
 ### Ising Model 
 <img src="Images/ising.gif" width="200" height="200"/>
 
